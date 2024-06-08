@@ -36,3 +36,10 @@ This is a simple blog application built using React. It allows users to read and
    npm start
 
 5. Open your browser and visit http://localhost:3000 to view the app.
+
+## Hooks Used
+
+1. useState() - Manages state in functional components.
+2. useEffect() - Performs side effects in functional components.
+3. useParams() - Accesses parameters in route paths.
+4. useHistory() - Provides access to the browser's history stack.
